@@ -8,63 +8,63 @@
 
     {
         "title": "ouke",
-        "precio": 500,
+        "precio": 5500,
         "id": 2,
         "url": "https://picsum.photos/id/1/600"
     },
 
     {
         "title": "coca",
-        "precio": 500,
+        "precio": 5400,
         "id": 3,
         "url": "https://picsum.photos/id/2/600"
     },
 
     {
         "title": "pepsi",
-        "precio": 500,
+        "precio": 5800,
         "id": 4,
         "url": "https://picsum.photos/id/3/600"
     },
 
     {
         "title": "mirinda",
-        "precio": 500,
+        "precio": 5060,
         "id": 5,
         "url": "https://picsum.photos/id/4/600"
     },
 
     {
         "title": "leche",
-        "precio": 500,
+        "precio": 5080,
         "id": 6,
         "url": "https://picsum.photos/id/5/600"
     },
 
     {
         "title": "cafe",
-        "precio": 500,
+        "precio": 5700,
         "id": 7,
         "url": "https://picsum.photos/id/6/600"
     },
 
     {
         "title": "atole",
-        "precio": 500,
+        "precio": 5020,
         "id": 8,
         "url": "https://picsum.photos/id/7/600"
     },
 
     {
         "title": "cerveza",
-        "precio": 500,
+        "precio": 5200,
         "id": 9,
         "url": "https://picsum.photos/id/8/600"
     },
 
     {
         "title": "frappe",
-        "precio": 500,
+        "precio": 5030,
         "id": 10,
         "url": "https://picsum.photos/id/9/600"
     }
